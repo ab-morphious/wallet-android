@@ -11,14 +11,11 @@ import android.view.ViewGroup;
 import android.widget.HorizontalScrollView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-
 import org.telegram.crypto.Models.Data;
 import org.telegram.messenger.R;
 import org.xmlpull.v1.XmlPullParser;
-
 import java.text.NumberFormat;
 import java.util.List;
 import java.util.Locale;
