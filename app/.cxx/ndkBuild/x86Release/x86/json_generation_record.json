@@ -1,0 +1,92 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 18 min SDK version: x86",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/zaytechethiopia/Downloads/wallet-android/app/.cxx/ndkBuild/x86Release/x86/android_gradle_build.json due to:",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - /Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Users/zaytechethiopia/Downloads/wallet-android/app/.cxx/ndkBuild/x86Release/x86\u0027",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/zaytechethiopia/Downloads/wallet-android/app/.cxx/ndkBuild/x86Release/x86\u0027",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "executing ndkBuild Executable : /Users/zaytechethiopia/Library/Android/sdk/ndk/20.0.5594570/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk\nNDK_APPLICATION_MK\u003d/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Application.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-18\nNDK_OUT\u003d/Users/zaytechethiopia/Downloads/wallet-android/app/build/intermediates/ndkBuild/x86Release/obj\nNDK_LIBS_OUT\u003d/Users/zaytechethiopia/Downloads/wallet-android/app/build/intermediates/ndkBuild/x86Release/lib\nNDK_APPLICATION_MK:\u003djni/Application.mk\nAPP_PLATFORM:\u003dandroid-16\n--jobs\u003d8\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : /Users/zaytechethiopia/Library/Android/sdk/ndk/20.0.5594570/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk\nNDK_APPLICATION_MK\u003d/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Application.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d0\nAPP_PLATFORM\u003dandroid-18\nNDK_OUT\u003d/Users/zaytechethiopia/Downloads/wallet-android/app/build/intermediates/ndkBuild/x86Release/obj\nNDK_LIBS_OUT\u003d/Users/zaytechethiopia/Downloads/wallet-android/app/build/intermediates/ndkBuild/x86Release/lib\nNDK_APPLICATION_MK:\u003djni/Application.mk\nAPP_PLATFORM:\u003dandroid-16\n--jobs\u003d8\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing ndkBuild",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output /Users/zaytechethiopia/Downloads/wallet-android/app/.cxx/ndkBuild/x86Release/x86/build_output.txt",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "parse and convert ndk-build output to build configuration JSON",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "found application make file /Users/zaytechethiopia/Downloads/wallet-android/app/jni/Application.mk",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file /Users/zaytechethiopia/Downloads/wallet-android/app/.cxx/ndkBuild/x86Release/x86/build_command.txt",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/zaytechethiopia/Downloads/wallet-android/app/jni/Android.mk",
+    "tag": "x86Release|x86"
+  }
+]

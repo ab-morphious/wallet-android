@@ -1,0 +1,420 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:71:9-79:20
+	android:grantUriPermissions
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:75:13-47
+	android:authorities
+		INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:73:13-60
+	android:exported
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:74:13-37
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:72:13-62
+manifest
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:2:1-94:12
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/baad971278a0d5a7c250208963cf471a/jetified-play-services-vision-16.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/4fc74ccc82da862c0a3a983e904d2b02/jetified-play-services-vision-common-16.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/27e26273b90f54f96ea058f3710c6bcd/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/62991cc61d3821d808117d274dc6b7bf/jetified-play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/1867005fc521b2b5ccb13adf8225b1b3/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6f53541721f118e7399ff09bf477f4f/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/e9c6ba57342c6cd288a790cd7ce8c23e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f2bd5c1d6674cff64d3ccf8dff9e129d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/af95081a8834779a417ceaf652216b4e/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f11d17826a3f1c9fb5ea665a35bcccbc/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/ac73944b7319fd63942c5af35ab2d8a1/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b59b3a15553c03ea5dde5d26f95dcbc7/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/051e6769612267d8dfe4e002a9c0ea18/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/451ad5b732ef20b4854647b11b929295/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/dfe9ada293cb0d441c883afdf94e9162/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/748d5f07bf5e9a130ae83f1d02eff01b/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/8c69353e82f713329e7645c7d64fcb62/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/7351e0f4ded43e3dd39dc7cea74efad0/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/437bf77917e23e815ea38bd628f7f038/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/7c7a76805d8f08c73c94e808ee959a62/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/fab129e202578a1d4dba3059385a4324/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-beta01] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/2c0c1e4eeb1a6536185ca684a539d492/core-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/a66978db6af5b5e1ff2e061c5661110c/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/d9bd194f14748b39e3da9bfa89073f9a/versionedparcelable-1.1.0-beta01/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/d028cffe1a5d9ca60ae44f25a2b94a28/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/414531db81115f2421131d98488ce4bf/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/8138e0ed88ec594f727d84993ba14014/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6629f22d1a0376894f260999b3c9832/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/eab63a6fc66adb73d3656b77f16563e3/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/c6df8ff9a016980786f58ea083190d92/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/cedd4e1f3ad88ee637a23d1c473cda94/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/c2fd28c79c72fb66e093723cdbc786d7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f2f243c3fd766b6b98006172e0d4318f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/42ca13e3713cdbb6ea4f376aff3144b2/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:2:1-94:12
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:2:1-94:12
+	package
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:2:1-94:12
+		INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:2:1-94:12
+		INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:5:5-35
+supports-screens
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:7:5-13:39
+	android:largeScreens
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:13:9-37
+	android:resizeable
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:11:9-34
+	android:anyDensity
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:8:9-34
+uses-feature#0x00020000
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:15:5-78
+	android:glEsVersion
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:15:19-51
+	android:required
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:15:52-76
+uses-feature#android.hardware.telephony
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:16:5-88
+	android:required
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:16:61-85
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:16:19-60
+uses-feature#android.hardware.wifi
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:17:5-83
+	android:required
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:17:56-80
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:17:19-55
+uses-feature#android.hardware.screen.PORTRAIT
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:18:5-94
+	android:required
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:18:67-91
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:18:19-66
+uses-feature#android.hardware.camera
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:19:5-85
+	android:required
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:19:58-82
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:19:19-57
+uses-feature#android.hardware.camera2
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:20:5-86
+	android:required
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:20:59-83
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:20:19-58
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:24:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:25:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:26:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:27:22-63
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:28:5-74
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:28:22-71
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:29:5-72
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:29:22-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:30:5-65
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:30:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:32:5-102
+	tools:node
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:32:79-99
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:32:22-78
+application
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:34:5-92:19
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/baad971278a0d5a7c250208963cf471a/jetified-play-services-vision-16.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/baad971278a0d5a7c250208963cf471a/jetified-play-services-vision-16.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/4fc74ccc82da862c0a3a983e904d2b02/jetified-play-services-vision-common-16.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/4fc74ccc82da862c0a3a983e904d2b02/jetified-play-services-vision-common-16.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/27e26273b90f54f96ea058f3710c6bcd/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/27e26273b90f54f96ea058f3710c6bcd/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/1867005fc521b2b5ccb13adf8225b1b3/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/1867005fc521b2b5ccb13adf8225b1b3/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6f53541721f118e7399ff09bf477f4f/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6f53541721f118e7399ff09bf477f4f/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/e9c6ba57342c6cd288a790cd7ce8c23e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/e9c6ba57342c6cd288a790cd7ce8c23e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f2bd5c1d6674cff64d3ccf8dff9e129d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f2bd5c1d6674cff64d3ccf8dff9e129d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-beta01] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/2c0c1e4eeb1a6536185ca684a539d492/core-1.1.0-beta01/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-beta01] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/2c0c1e4eeb1a6536185ca684a539d492/core-1.1.0-beta01/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/d9bd194f14748b39e3da9bfa89073f9a/versionedparcelable-1.1.0-beta01/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/d9bd194f14748b39e3da9bfa89073f9a/versionedparcelable-1.1.0-beta01/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-beta01] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/2c0c1e4eeb1a6536185ca684a539d492/core-1.1.0-beta01/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:42:9-36
+	android:label
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:43:9-40
+	android:hardwareAccelerated
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:37:9-68
+	android:roundIcon
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:39:9-54
+	android:largeHeap
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:40:9-33
+	android:icon
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:38:9-43
+	android:allowBackup
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:36:9-36
+	android:theme
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:41:9-53
+	tools:replace
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:44:9-44
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:35:9-64
+activity#org.telegram.crypto.Activities.CryptoActivity
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:46:9-51:20
+	android:theme
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:46:80-124
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:46:19-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:49:27-74
+activity#org.telegram.ui.LaunchActivity
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:52:9-65:20
+	android:launchMode
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:56:13-44
+	android:hardwareAccelerated
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:55:13-72
+	android:windowSoftInputMode
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:57:13-52
+	android:configChanges
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:54:13-90
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:53:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:ton
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:59:13-64:29
+	android:roundIcon
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:59:63-108
+	android:priority
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:59:109-129
+	android:icon
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:59:28-62
+action#android.intent.action.VIEW
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:60:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:61:17-78
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:61:27-75
+category#android.intent.category.DEFAULT
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:62:17-76
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:62:27-73
+data
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:63:17-46
+	android:scheme
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:63:23-43
+receiver#org.telegram.messenger.ShareBroadcastReceiver
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:67:9-104
+	android:enabled
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:67:80-102
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:67:19-79
+receiver#org.telegram.messenger.CustomTabsCopyReceiver
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:69:9-104
+	android:enabled
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:69:80-102
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:69:19-79
+uses-library#org.apache.http.legacy
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:81:9-87
+	android:required
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:81:61-85
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:81:23-60
+uses-library#com.sec.android.app.multiwindow
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:83:9-97
+	android:required
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:83:70-94
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:83:23-69
+meta-data#com.sec.android.support.multiwindow
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:84:9-94
+	android:value
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:84:71-91
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:84:20-70
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_W
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:85:9-102
+	android:value
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:85:78-99
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:85:20-77
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_H
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:86:9-102
+	android:value
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:86:78-99
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:86:20-77
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_W
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:87:9-102
+	android:value
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:87:78-99
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:87:20-77
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_H
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:88:9-102
+	android:value
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:88:78-99
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:88:20-77
+meta-data#android.max_aspect
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:90:9-76
+	android:value
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:90:54-73
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:90:20-53
+uses-sdk
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/baad971278a0d5a7c250208963cf471a/jetified-play-services-vision-16.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:16.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/baad971278a0d5a7c250208963cf471a/jetified-play-services-vision-16.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/4fc74ccc82da862c0a3a983e904d2b02/jetified-play-services-vision-common-16.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:16.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/4fc74ccc82da862c0a3a983e904d2b02/jetified-play-services-vision-common-16.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/27e26273b90f54f96ea058f3710c6bcd/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/27e26273b90f54f96ea058f3710c6bcd/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/62991cc61d3821d808117d274dc6b7bf/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/62991cc61d3821d808117d274dc6b7bf/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/1867005fc521b2b5ccb13adf8225b1b3/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/1867005fc521b2b5ccb13adf8225b1b3/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6f53541721f118e7399ff09bf477f4f/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6f53541721f118e7399ff09bf477f4f/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/e9c6ba57342c6cd288a790cd7ce8c23e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/e9c6ba57342c6cd288a790cd7ce8c23e/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f2bd5c1d6674cff64d3ccf8dff9e129d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f2bd5c1d6674cff64d3ccf8dff9e129d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/af95081a8834779a417ceaf652216b4e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/af95081a8834779a417ceaf652216b4e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f11d17826a3f1c9fb5ea665a35bcccbc/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f11d17826a3f1c9fb5ea665a35bcccbc/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/ac73944b7319fd63942c5af35ab2d8a1/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/ac73944b7319fd63942c5af35ab2d8a1/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b59b3a15553c03ea5dde5d26f95dcbc7/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b59b3a15553c03ea5dde5d26f95dcbc7/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/051e6769612267d8dfe4e002a9c0ea18/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/051e6769612267d8dfe4e002a9c0ea18/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/451ad5b732ef20b4854647b11b929295/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/451ad5b732ef20b4854647b11b929295/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/dfe9ada293cb0d441c883afdf94e9162/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/dfe9ada293cb0d441c883afdf94e9162/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/748d5f07bf5e9a130ae83f1d02eff01b/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/748d5f07bf5e9a130ae83f1d02eff01b/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/8c69353e82f713329e7645c7d64fcb62/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/8c69353e82f713329e7645c7d64fcb62/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/7351e0f4ded43e3dd39dc7cea74efad0/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/7351e0f4ded43e3dd39dc7cea74efad0/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/437bf77917e23e815ea38bd628f7f038/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/437bf77917e23e815ea38bd628f7f038/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/7c7a76805d8f08c73c94e808ee959a62/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/7c7a76805d8f08c73c94e808ee959a62/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/fab129e202578a1d4dba3059385a4324/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/fab129e202578a1d4dba3059385a4324/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/2c0c1e4eeb1a6536185ca684a539d492/core-1.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/2c0c1e4eeb1a6536185ca684a539d492/core-1.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/a66978db6af5b5e1ff2e061c5661110c/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/a66978db6af5b5e1ff2e061c5661110c/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/d9bd194f14748b39e3da9bfa89073f9a/versionedparcelable-1.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/d9bd194f14748b39e3da9bfa89073f9a/versionedparcelable-1.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/d028cffe1a5d9ca60ae44f25a2b94a28/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/d028cffe1a5d9ca60ae44f25a2b94a28/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/414531db81115f2421131d98488ce4bf/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/414531db81115f2421131d98488ce4bf/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/8138e0ed88ec594f727d84993ba14014/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/8138e0ed88ec594f727d84993ba14014/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6629f22d1a0376894f260999b3c9832/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6629f22d1a0376894f260999b3c9832/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/eab63a6fc66adb73d3656b77f16563e3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/eab63a6fc66adb73d3656b77f16563e3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/c6df8ff9a016980786f58ea083190d92/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/c6df8ff9a016980786f58ea083190d92/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/cedd4e1f3ad88ee637a23d1c473cda94/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/cedd4e1f3ad88ee637a23d1c473cda94/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/c2fd28c79c72fb66e093723cdbc786d7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/c2fd28c79c72fb66e093723cdbc786d7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f2f243c3fd766b6b98006172e0d4318f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f2f243c3fd766b6b98006172e0d4318f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/42ca13e3713cdbb6ea4f376aff3144b2/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/42ca13e3713cdbb6ea4f376aff3144b2/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:76:13-78:57
+	android:resource
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:78:17-55
+	android:name
+		ADDED from /Users/zaytechethiopia/Downloads/wallet-android/app/src/main/AndroidManifest.xml:77:17-67
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6f53541721f118e7399ff09bf477f4f/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6f53541721f118e7399ff09bf477f4f/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6f53541721f118e7399ff09bf477f4f/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/b6f53541721f118e7399ff09bf477f4f/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f2bd5c1d6674cff64d3ccf8dff9e129d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f2bd5c1d6674cff64d3ccf8dff9e129d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/zaytechethiopia/.gradle/caches/transforms-2/files-2.1/f2bd5c1d6674cff64d3ccf8dff9e129d/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58

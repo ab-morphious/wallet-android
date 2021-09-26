@@ -1,0 +1,181 @@
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-ext-connection.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-ext-connection.hpp:21:
+In file included from ./jni/ton/td/net/TcpListener.h:21:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-address-list.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-address-list.hpp:21:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-node-id.hpp:21:
+In file included from ./jni/ton/keys/keys.hpp:26:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-channel.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-channel.hpp:21:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-channel.h:21:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-local-id.h:23:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-ext-client.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-ext-client.hpp:22:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-ext-connection.hpp:21:
+In file included from ./jni/ton/td/net/TcpListener.h:21:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-message.cpp:19:
+In file included from ./jni/ton/adnl/adnl-message.h:21:
+In file included from ./jni/ton/adnl/adnl.h:21:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+1 warning generated.
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-ext-server.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-ext-server.hpp:21:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-peer-table.h:21:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+1 warning generated.
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-local-id.cpp:22:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-local-id.h:23:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+1 warning generated.
+1 warning generated.
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-node.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-node.h:22:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-node-id.hpp:21:
+In file included from ./jni/ton/keys/keys.hpp:26:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-node-id.cpp:20:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-node-id.hpp:21:
+In file included from ./jni/ton/keys/keys.hpp:26:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+1 warning generated.
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-network-manager.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-network-manager.hpp:21:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-network-manager.cpp:19:
+/Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-network-manager.hpp:156:14: warning: private field 'sent_messages_' is not used [-Wunused-private-field]
+  td::uint64 sent_messages_ = 0;
+             ^
+/Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-network-manager.hpp:163:14: warning: private field 'out_udp_port_' is not used [-Wunused-private-field]
+  td::uint16 out_udp_port_;
+             ^
+1 warning generated.
+1 warning generated.
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-packet.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-packet.h:21:
+In file included from ./jni/ton/adnl/adnl.h:21:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+1 warning generated.
+1 warning generated.
+1 warning generated.
+3 warnings generated.
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-query.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-query.h:21:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-peer.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-peer.h:21:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+1 warning generated.
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-pong.cpp:28:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-static-nodes.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-static-nodes.h:21:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/utils.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/utils.hpp:30:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-node-id.hpp:21:
+In file included from ./jni/ton/keys/keys.hpp:26:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+1 warning generated.
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-test-loopback-implementation.cpp:19:
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-test-loopback-implementation.h:21:
+In file included from ./jni/ton/adnl/adnl.h:21:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+In file included from /Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-proxy.cpp:28:
+In file included from ./jni/ton/td/actor/actor.h:20:
+In file included from ./jni/ton/td/actor/common.h:24:
+In file included from ./jni/ton/td/actor/core/Scheduler.h:43:
+./jni/ton/td/utils/MpmcWaiter.h:175:10: warning: private field 'padding' is not used [-Wunused-private-field]
+    char padding[128];
+         ^
+/Users/zaytechethiopia/Downloads/wallet-android/app/jni/./ton/adnl/adnl-proxy.cpp:81:13: warning: private field 'client_start_time_' is not used [-Wunused-private-field]
+  td::int32 client_start_time_{0};
+            ^
