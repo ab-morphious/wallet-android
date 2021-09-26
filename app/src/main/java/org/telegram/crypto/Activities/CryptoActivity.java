@@ -4,11 +4,8 @@ import android.app.Activity;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.widget.LinearLayout;
-
 import androidx.annotation.Nullable;
-
 import org.telegram.crypto.Fragments.CryptoFragment;
-
 import org.telegram.messenger.R;
 
 public class CryptoActivity extends Activity {
